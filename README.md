@@ -6,24 +6,36 @@
 # 🌸 About Me  
 Hi, I’m **Nyanthow** 💕  
 🎀 Computer Science student at **University of Kigali**  
+🛡️ Aspiring **Cybersecurity** analyst (blue-team curious, red-team playful)  
 ☁️ Passionate about **backend development, data science & creative coding**  
 🌱 Exploring **motion graphics & design** with Blender + code  
 💡 I love blending **tech + creativity** to tell stories that matter  
 
 ---
 
-# 🎨 My Creative Stack  
+# 🎨 My Creative & Security Stack  
 ✨ **Design & Motion Graphics**: Blender 🌀 | Figma 🎨 | Canva 🌸  
 ✨ **Programming & Data**: Python 🐍 | SQL 🗄️ | Java ☕ | R 📊 | C ⚙️  
 ✨ **Web Development**: HTML 🌐 | CSS 🎀 | JavaScript ✨  
 ✨ **Backend & Tools**: Node.js ⚡ | GitHub 🖤 | VS Code 💻  
+🛡️ **Cybersecurity**  
+- **Platforms**: TryHackMe | Hack The Box  
+- **Tools**: Wireshark | Nmap | Burp Suite | OWASP ZAP | Metasploit  
+- **Practices**: Secure coding (OWASP Top 10) | Threat modeling | Linux hardening | Basic SOC/SIEM workflows
 
 ---
 
 # 💫 Current Focus  
+- 🔐 Building fundamentals in **cybersecurity** (network & web app security, labs & CTFs)  
 - 📚 Learning advanced **backend engineering**  
-- 🌀 Growing my **motion graphics skills** with Blender  
-- 🚀 Building portfolio projects that combine **tech + creativity**  
+- 🌀 Growing my **motion graphics** skills with Blender  
+- 🚀 Building portfolio projects that combine **security + backend + creativity**  
+
+---
+
+# 🧪 Security-Learning Highlights  
+- THM/HTB labs & write-ups (web vuln, enumeration, privilege escalation)  
+- Mini projects: password policy checker, simple log parser, secure auth demos  
 
 ---
 
@@ -31,6 +43,8 @@ Hi, I’m **Nyanthow** 💕
 <p align="center">
   <a href="https://github.com/nyanthow"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:Nyanthowjohn@gmail.com"><img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/TryHackMe-FF4B4B?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+  <a href="https://www.hackthebox.com/"><img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" /></a>
 </p>
 
 ---
