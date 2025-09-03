@@ -14,10 +14,10 @@ Hi, I’m **Nyanthow** 💕
 ---
 
 # 🎨 My Creative & Security Stack  
-✨ **Design & Motion Graphics**: Blender 🌀 | Figma 🎨 | Canva 🌸  
-✨ **Programming & Data**: Python 🐍 | SQL 🗄️ | Java ☕ | R 📊 | C ⚙️  
-✨ **Web Development**: HTML 🌐 | CSS 🎀 | JavaScript ✨  
-✨ **Backend & Tools**: Node.js ⚡ | GitHub 🖤 | VS Code 💻  
+ **Design & Motion Graphics**: Blender 🌀 | Figma 🎨 | Canva 🌸  
+ **Programming & Data**: Python 🐍 | SQL 🗄️ | Java ☕ | R 📊 | C ⚙️  
+ **Web Development**: HTML 🌐 | CSS 🎀 | JavaScript ✨  
+ **Backend & Tools**: Node.js ⚡ | GitHub 🖤 | VS Code 💻  
 🛡️ **Cybersecurity**  
 - **Platforms**: TryHackMe | Hack The Box  
 - **Tools**: Wireshark | Nmap | Burp Suite | OWASP ZAP | Metasploit  
