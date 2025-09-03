@@ -7,7 +7,7 @@
 Hi, I’m **Nyanthow** 💕  
 🎀 Computer Science student at **University of Kigali**  
 🛡️ Aspiring **Cybersecurity** analyst (blue-team curious, red-team playful)  
-☁️ Passionate about **backend development, data science & creative coding**  
+☁️ Passionate about **backend development, data analytics & creative coding**  
 🌱 Exploring **motion graphics & design** with Blender + code  
 💡 I love blending **tech + creativity** to tell stories that matter  
 
@@ -15,7 +15,7 @@ Hi, I’m **Nyanthow** 💕
 
 # 🎨 My Creative & Security Stack  
  **Design & Motion Graphics**: Blender 🌀 | Figma 🎨 | Canva 🌸  
- **Programming & Data**: Python 🐍 | SQL 🗄️ | Java ☕ | R 📊 | C ⚙️  
+ **Programming & Data**: Python 🐍 | SQL 🗄️ | Java ☕ | R 📊 | C ⚙️ |  Power Bi 📊
  **Web Development**: HTML 🌐 | CSS 🎀 | JavaScript ✨  
  **Backend & Tools**: Node.js ⚡ | GitHub 🖤 | VS Code 💻  
 🛡️ **Cybersecurity**  
