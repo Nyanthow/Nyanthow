@@ -16,6 +16,7 @@ Hi, I’m **Nyanthow** 💕
 # 🎨 My Creative & Security Stack  
  **Design & Motion Graphics**: Blender 🌀 | Figma 🎨 | Canva 🌸  
  **Programming & Data**: Python 🐍 | SQL 🗄️ | Java ☕ | R 📊 | C ⚙️ |  Power Bi 📊
+ 
  **Web Development**: HTML 🌐 | CSS 🎀 | JavaScript ✨  
  **Backend & Tools**: Node.js ⚡ | GitHub 🖤 | VS Code 💻  
 🛡️ **Cybersecurity**  
